@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+body{
+ background-image: linear-gradient(to right, #F26BD2,#706BF2);
+ font-family: 'Montserrat', sans-serif;
+}
+h1{ color:#400D0D;
+
+}
+h1#principal{
+
+    text-align: center;
+    background-color:#400D0D ;
+    color: white;
+}
+
+.basico{
+color: blue;
+}
+
+.intermediario{
+    color: darkcyan;
+}
+.avancado{
+    color: crimson;
+}
+
+

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Imagens/icone.icon.ico" type="image/x-icon">
+    <title>Grouping tags</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+        body{
+            background-image: linear-gradient(to right, #F25781,#065473);
+            font-family: 'Montserrat', sans-serif;
+            margin: 0px;
+        }
+        header{
+            background-color: white;
+            padding: 10px;
+            margin: 5px;
+            border-radius: 10px 10px 0px 0px;
+            box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.397);
+        }
+        h1{
+            text-align: center;
+            font-weight: bolder;
+        
+        }
+        
+        nav{
+            background-color: #F25781;
+            padding: 3px;
+            text-align: center;
+            box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.397);
+
+        }
+
+        nav>a{
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            margin-right: 35px;
+          
+        }
+        
+        nav>a:hover{
+            text-decoration: underline;
+            color: thistle;
+        }
+        main{
+            background-color: white;
+            padding: 10px;
+            margin: 5px;
+            border-radius: 0px 0px 10px 10px;
+            box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.397);
+        }
+        footer{
+            background-color: #F2836B;
+            text-align: center;
+            padding: 4px;
+            margin: 0px;
+
+        }
+    footer>p{
+        margin: 0px;
+    }
+         #noticias{
+            background-color: #F2D399;
+            padding: 5px
+        }
+      #noticias>article>aside{
+          background-color: #f2c64483;
+      }
+      #assuntos{
+          background-color: #F25781;
+          padding: 10px;
+      }
+      #assuntos>article>aside{
+          background-color: #0654737a;
+      }
+      
+    </style>     
+</head>
+<body>
+    <header>
+        <h1>Meu site</h1>
+        <nav>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+        </nav>
+    </header>
+    <main>
+        <section id="assuntos">
+            <article>
+                <h2>Tô sem assunto</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis quae laboriosam quis fugit esse? Sapiente dolorem corrupti aliquam. Recusandae perferendis perspiciatis consequuntur magni quas dolorem tempore repellendus suscipit a natus?</p>
+                <aside>
+                    <p>Artigo escrito por mim mesmo</p>
+                </aside>
+            </article>
+        </section>
+
+        <section id="noticias">
+            <article>
+                <h2>Notícias sobre nada</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quia veniam quos libero maiores itaque? Sequi fuga placeat facilis corporis cum, consequuntur tempora. Reprehenderit ducimus, necessitatibus omnis mollitia excepturi voluptatum!</p>
+                <aside>
+                    <p>Artigo escrito por mim mesmo</p>
+                </aside>
+            </article>
+          
+
+        </section>
+    </main>
+    <footer>
+        <p>Desenvolvido por Thiago</p>
+    </footer>
+   
+</body>
+</html>

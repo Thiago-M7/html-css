@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html>
+ 
+<meta charset= "utf-8">
+
+         <head>
+
+            <title>Apenas um teste</title>
+        
+            <img src="imagem2.png.png"height= "550%" width="100%">
+
+            <h1 style="color:cyan;" align="center"> Apenas um teste </h1>
+    
+       <br> </br>
+            
+            <h2 style="color:cyan" align="center"> Sobre <h2>
+
+        </head>
+       
+        
+
+
+       <body style= "background-color:purple;">
+
+<P style="color:cyan" align="center">
+
+
+    Olá este é um dos meus primeiros testes de criação de sites. desta vez estou apenas usando "tags" simples de HTML5, devido a isso o site é simples.
+    Neste site usei as "tags" padrão, que não possso exmplificar pois ainda não sei como colocar uma tag no codigo sem que ela fique "invisivel", porém sei que é possivel.
+    Também estou usando algumas tags para colocar images e ajustar seus parâmetros e outras para colocar cores aos textos.
+    <br> </br>
+    <br> </br>
+
+    <img src="imagem3.webp"height="40%" width="30%"
+</P>
+<br> </br>
+
+<h2 style="color:cyan" align="center"> Um pouco mais sobre <h2></h2>
+
+<h2><p style="color: cyan;" align="center">  Também estou aprendendo colocar links como fiz para exemplificar no final da página.
+     além disso eu estou aprendendo a colocar links de E-mails, entre tanto ainda não sei como funciona ao certo pois não conseguir testar completamente, mas irei tentar nos próximos testes.
+    Fora isso também estou usando uma "tag" de quebra de linha, assim já consigo editar melhor os textos.
+    contudo estou criando este codigo com acompanhando videos no youtube, porém estou mudando o código ao meu gosto para que assim um dia eu consiga ter prática para criar e entender codigos sozinhos.         </p></h2>
+
+</P>
+      <br> </br>
+</body>
+
+<footer>
+
+ 
+   <p style="color: cyan;"> Feito por Thiago Monteiro </p>
+
+   <p style="color: cyan;"> E-mail: <a style="color: white;" href="file:///C:/Users/User/Desktop/Thiago/Meus%20testes%205/index.html">Outro teste </a> </p>
+  
+ <p style="color: cyan;"> E-mail: <a style="color: white;" href="mailto: thiago@datatasystem.net.br">thiago@datatasystem.net.br </a> </p>
+</footer>
+
+
+
+
+
+
+</html>

@@ -1,0 +1,49 @@
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <meta charset="UTF-8">
+       <meta http-equiv="X-UA-Compatible" content="IE=edge">
+           <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apenas mais um teste </title>
+
+   <img src="imagem2.jpeg.jpeg"height "50%" width="100%">
+
+    
+
+    <h1 style="color:PaleTurquoise;" align="center"> Apenas mais um teste </h1>
+ 
+    <br> <br>
+  
+    <h2 style="color:PaleTurquoise;" align="center"> Teste parado </h2>
+
+</head>
+
+<body style= "background-color:Indigo;"
+
+
+    
+   <h1></h1><p style="color: #E0FFFF;"align="center" > Por hora esse teste se encontra parado para obeter mais conhecimento em css e html 5,
+    pois eu não estou conseguindo proceseguir sozinho ainda, estou tendo dificudades em mudar o tamnho da fonte e entender como usa tags de css pois eu estava usando sem saber que estava.
+    dito isso deixarei o link de uma proxima pagina onde eu concluo este teste.
+</p></h1> 
+
+<br> </br>
+
+
+
+
+
+
+
+</body>
+
+<footer>
+
+ 
+    <p style="color: cyan;"> Feito por Thiago Monteiro </p>
+ 
+    <p style="color: cyan;"> E-mail: <a style="color: white;" href=">Outro teste </a> </p>
+   
+  <p style="color: cyan;"> E-mail: <a style="color: white;" href="mailto: thiago@datatasystem.net.br">thiago@datatasystem.net.br </a> </p>
+ </footer>

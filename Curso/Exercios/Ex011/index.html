@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Imagens/icone.icon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="Imagens/icone.icon.ico" type="image/x-icon">
+    <style>
+        body
+        {
+            background-color: gray;
+        }
+    </style>
+    <title>Midias em HTML5 </title>
+</head>
+<body>
+ <h1>Imagens dinâmicas</h1>
+ <p> Abaixo vamos ver um exemnplo de imagem usando a tag &lt;picture&gt;. Essa tag que traz a posiblidade de colocarmos imagens, que altera o tamanho, dependedo do dispositvo, ou ajuste da página <p>
+     <picture>
+     <source media="(max-width:700px )" srcset="imagens/img-p.png" type="image/png">     
+    <source media="(max-width:1050px )" srcset="imagens/img-m.png" type="image/png">
+         <img src="Imagens/img-g.png" alt="Imagen g">
+     </picture>
+     <hr>
+     
+     <h2>Reproduzindo áudios!</h2>
+     <p>Neste exercío estou apredendo a reproduzir áudios, para isso estou usando a tag &lt;audio src="áudio desejado" autoplay controls&gt;</p>
+     <!--Formatos de áudio;MP3, WAV, OGG-->
+
+     <audio preload="auto" controls loop>
+        <source src="Hyperion's Tale.mp3" type="audio/mpeg">
+        <source src="Hyperion's Tale.mp3" type="audio/ogg">
+        <source src="Hyperion's Tale.mp3" type="audio/wav">
+        <p><a href="Hyperion's Tale.mp3">Se não abrir o áudio clique aqui para baixar </a></p>
+     </audio>
+    
+</body>
+</html>
+
+
+
